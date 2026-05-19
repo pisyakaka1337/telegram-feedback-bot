@@ -1,0 +1,6 @@
+.env
+message_map.json
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
